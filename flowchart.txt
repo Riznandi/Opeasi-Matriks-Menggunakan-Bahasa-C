@@ -1,0 +1,44 @@
+        Mulai
+          |
+ Tampilkan Nama dan NPM
+          |
+   Do-While Loop Mulai
+          |
+ Tampilkan Pilihan Operasi
+          |
+     Input Pilihan Operasi
+          |
+  +-------+-------+
+  |               |
+ Pilihan = 1/2    Pilihan = 3
+  |               |
+  Input Baris    Input Baris A
+  Input Kolom    Input Kolom A
+  Input Matriks A Input Baris B
+  Input Matriks B Input Kolom B
+  |               |
+  |       Kolom A != Baris B ?
+  |              /      \
+  |            Ya        Tidak
+  |            |          |
+  |   Tampilkan Error   Input Matriks A
+  |                    Input Matriks B
+  |                    Lakukan Perkalian
+  |                    Tampilkan Hasil
+  |
+ Pilihan = 1 ?    Pilihan = 2 ?
+  |              /
+ Ya            Tidak
+  |              |
+ Lakukan       Lakukan
+ Penjumlahan   Pengurangan
+  |              |
+ Tampilkan Hasil
+          |
+       Tampilkan Pesan Repeat
+          |
+     Input Pilihan Repeat
+          |
+ While Repeat = 'y' or 'Y'
+          |
+        Selesai
